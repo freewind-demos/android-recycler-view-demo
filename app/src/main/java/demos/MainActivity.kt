@@ -1,4 +1,4 @@
-package demos
+package demos.android.recycler.view.demo
 
 import android.os.Bundle
 import android.widget.TextView
